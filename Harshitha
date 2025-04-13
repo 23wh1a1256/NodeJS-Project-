@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harshitha Bangari Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+            background-color: #e7f1ff;
+            padding: 10px;
+        }
+
+        section {
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .project {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        .contact-info p {
+            margin: 5px 0;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #cce6ff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Harshitha Bangari</h1>
+            <div class="contact-info">
+                <p>Email: 23wh1a1256@bvrithyderabad.edu.in | Phone: +91 9492 930 848</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/harshitha-bangari-883237350" target="_blank">linkedin.com/in/harshitha-bangari-883237350</a></p>
+            </div>
+        </header>
+
+        <section class="objective">
+            <h2>Objective</h2>
+            <p>Motivated and diligent 2nd-year Information Technology student with a strong academic record and hands-on experience in programming. Adept at problem-solving, with proficiency in C, Python, Java. Committed to continuous learning and enthusiastic about leveraging my programming skills and soft skills to support and drive technology solutions.</p>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Bachelor of Technology (BTech) in Information Technology</strong></p>
+            <p>BVRIT Hyderabad College of Engineering for Women</p>
+            <p>CGPA: 8.7 (First Year)</p>
+            <br>
+            <p><strong>Intermediate Education</strong></p>
+            <p>Alphores Junior College</p>
+            <p>Percentage: 96.0%</p>
+            <br>
+            <p><strong>Secondary School Certificate (SSC)</strong></p>
+            <p>Kakatiya high school</p>
+            <p>CGPA: 10</p>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>Programming Languages:</strong> C, Python, Java</li>
+                <li><strong>Tools & Technologies:</strong> Visual Studio Code, HTML/CSS</li>
+                <li><strong>Soft Skills:</strong> Communication, Time Management, Team Leadership</li>
+            </ul>
+        </section>
+
+        <section class="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Movie Ticket Queue Management System</h3>
+                <p>Developed a C programming solution to manage a movie ticket booking system. Utilized queues to handle ticket requests and stacks for processing cancellations. Enhanced system efficiency and user experience through effective data structure implementation.</p>
+            </div>
+            <div class="project">
+                <h3>3-D Triangles GUI Project</h3>
+                <p>Designed and implemented a graphical user interface in Python to visualize triangles in a 3-D space. Enabled interactive manipulation and visualization of geometric shapes. Enhanced user engagement through intuitive and dynamic graphical representation.</p>
+            </div>
+        </section>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Problem Solving through Programming in C - NPTEL, 2023</li>
+                <li>Julia Course - Infosys Springboard, 2024</li>
+                <li>Semiconductor Fabrication 101 - Purdue University</li>
+            </ul>
+        </section>
+
+        <section class="declaration">
+            <h2>Declaration</h2>
+            <p>I hereby declare that the information provided in this resume is accurate and true to the best of my knowledge.</p>
+            <p><strong>Harshitha Bangari</strong></p>
+        </section>
+    </div>
+</body>
+</html>
